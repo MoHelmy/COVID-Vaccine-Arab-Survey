@@ -9,3 +9,9 @@
 
 ### Data description:
 - Add data description here...
+
+### The figure to be generated 
+![Qunaibi-etal-Figure1](https://github.com/MoHelmy/COVID-Vaccine-Arab-Survey/blob/main/Qunaibi-etal-Fig1.png?raw=true)
+
+### Figure 1. Vaccination hesitancy among 36,220 participants. 
+Figure 1. Vaccination hesitancy among 36,220 participants. A) The intention of receiving vaccination in the per-country in the Arab region, B) Vaccination attitudes reported by participants from the Arab countries and territories, C) Vaccination attitudes reported by participants from countries other than Arab countries and territories, D) Vaccination attitudes reported by participants per Arab country/territory, and E) Vaccination attitudes reported by participants from countries other than Arab countries and territories clustered by residency region.
