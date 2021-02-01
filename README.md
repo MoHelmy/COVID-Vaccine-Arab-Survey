@@ -8,10 +8,15 @@
 - Run Figure1.R and the code will regenerate the figure.
 
 ### Data description:
-- Add data description here...
+- We conducted an online open survey (36,220 eligible participants, 61% males and 39% females) to evaluate vaccine hesitancy among Arabs within and out of the Arab region. Participants covered all 23 countries and territories (n=30,200 participants) and Arabs who live in 122 other countries (n=6,020 participants). Participants from outside Arab countries were clustered based on their country of residence into four clusters (North America, Europe, Turkey and other countries). 
 
 ### The figure to be generated 
 ![Qunaibi-etal-Figure1](https://github.com/MoHelmy/COVID-Vaccine-Arab-Survey/blob/main/Qunaibi-etal-Fig1.png?raw=true)
 
 ### Figure 1. Vaccination hesitancy among 36,220 participants. 
-Figure 1. Vaccination hesitancy among 36,220 participants. A) The intention of receiving vaccination in the per-country in the Arab region, B) Vaccination attitudes reported by participants from the Arab countries and territories, C) Vaccination attitudes reported by participants from countries other than Arab countries and territories, D) Vaccination attitudes reported by participants per Arab country/territory, and E) Vaccination attitudes reported by participants from countries other than Arab countries and territories clustered by residency region.
+Figure 1. Vaccination hesitancy among 36,220 participants. 
+- A) The intention of receiving vaccination in the per-country in the Arab region
+- B) Vaccination attitudes reported by participants from the Arab countries and territories
+- C) Vaccination attitudes reported by participants from countries other than Arab countries and territories
+- D) Vaccination attitudes reported by participants per Arab country/territory
+- E) Vaccination attitudes reported by participants from countries other than Arab countries and territories clustered by residency region.
