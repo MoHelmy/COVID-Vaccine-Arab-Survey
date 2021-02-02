@@ -13,7 +13,7 @@
 - An English translation of the survey questions can be found [here](https://github.com/MoHelmy/COVID-Vaccine-Arab-Survey/blob/main/Supporting%20Document%201-%20Covid-19%20survey.pdf)
 
 ### The figure to be generated 
-![Qunaibi-etal-Figure1](https://github.com/MoHelmy/COVID-Vaccine-Arab-Survey/blob/main/Qunaibi-etal-Fig1.png?raw=true)
+![Qunaibi-etal-Figure1](Qunaibi-etal-Fig1.png)
 
 ### Figure 1. Vaccination hesitancy among 36,220 participants. 
 - A) The intention of receiving vaccination in the per-country in the Arab region
