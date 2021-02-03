@@ -16,7 +16,7 @@
 ![Qunaibi-etal-Figure1](Qunaibi-etal-Figure1.png)
 
 ### Figure 1. Vaccination hesitancy among 36,220 participants. 
-- A) The intention of receiving vaccination in the per-country in the Arab region
+- A) Vaccine acceptance per country in the Arab region
 - B) Vaccination attitudes reported by participants from the Arab countries and territories
 - C) Vaccination attitudes reported by participants from countries other than Arab countries and territories
 - D) Vaccination attitudes reported by participants per Arab country/territory
