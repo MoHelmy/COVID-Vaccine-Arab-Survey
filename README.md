@@ -3,7 +3,7 @@
 - This is the reposatory for the data, code and results of the massive online survey of COVID-19 Vaccine Hesitancy Among Arabs.
 
 ### How to regenerate the statstics present in the manuscript?
-- To regenerate the statstics and figures of Qunaibi et al (submitted), download the (data and code files)[Qunaibi-etal-Data-Code.zip].
+- To regenerate the statstics and figures of Qunaibi et al (submitted), download the [data and code files](Qunaibi-etal-Data-Code.zip).
 - Save the two files in the same folder and chance the work directory in the Figure1.R to the folder where you saved the two files. 
 - Run Figure1.R and the code will regenerate the figure.
 
